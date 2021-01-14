@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Leen Hamdan/CLionProjects/Motorcycle/Address.h
+iostream
+-
+string
+-
+
+C:/Users/Leen Hamdan/CLionProjects/Motorcycle/Customer.h
+iostream
+-
+string
+-
+
+C:/Users/Leen Hamdan/CLionProjects/Motorcycle/LinkedListMotorcycles.h
+
+C:/Users/Leen Hamdan/CLionProjects/Motorcycle/LinkedListRecords.h
+Record.h
+C:/Users/Leen Hamdan/CLionProjects/Motorcycle/Record.h
+
+C:/Users/Leen Hamdan/CLionProjects/Motorcycle/Motorcycle.h
+iostream
+-
+string
+-
+Customer.h
+C:/Users/Leen Hamdan/CLionProjects/Motorcycle/Customer.h
+
+C:/Users/Leen Hamdan/CLionProjects/Motorcycle/Record.h
+iostream
+-
+string
+-
+Motorcycle.h
+C:/Users/Leen Hamdan/CLionProjects/Motorcycle/Motorcycle.h
+
+C:/Users/Leen Hamdan/CLionProjects/Motorcycle/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+iomanip
+-
+algorithm
+-
+Address.h
+C:/Users/Leen Hamdan/CLionProjects/Motorcycle/Address.h
+LinkedListRecords.h
+C:/Users/Leen Hamdan/CLionProjects/Motorcycle/LinkedListRecords.h
+LinkedListMotorcycles.h
+C:/Users/Leen Hamdan/CLionProjects/Motorcycle/LinkedListMotorcycles.h
+
